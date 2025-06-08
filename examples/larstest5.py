@@ -176,6 +176,8 @@ def main():
         print(f"Total Value: {total_value:.2f}")
     check_owner()
         
+
 if __name__ == "__main__":
     main()
+    # print(api_key)
     
